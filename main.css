@@ -10,6 +10,7 @@
 .profile-card {
   width: 600px;
   max-width: calc(100vw - 30px);
+  
   }
 
 .head, .links {
@@ -54,12 +55,13 @@ body {
   height: 100vh;
   display: flex;
   justify-content: center;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Baloo Tamma 2', cursive;  
   height: 600px;
   width: 400px;
   background-color: #DEB887;
   margin: auto;
   border-radius: 6px
+  
 }
 
 .profile-card {
