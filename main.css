@@ -91,11 +91,11 @@ i {
   color: #2F4F4F;
 }
 
-@media screen and (max-width: 300px){
+@media screen and (max-width: 400px){
   .wrapper {
     font-size: 7vw;
     padding: 0;
-    width: 80%;
+    width: 90%;
     margin: 3%;
    
     }
