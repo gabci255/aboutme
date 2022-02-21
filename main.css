@@ -38,6 +38,7 @@ ul {
 
 li {
   display: inline;
+  font-size: 26px;
 }
 .head, .about {
   margin-bottom: 10%;
@@ -67,22 +68,22 @@ body {
 
 
 h1 {  
-  font-size: 35px;
+  font-size: 60px;
 }
 h2 {
-  font-size: 18px;
+  font-size: 36px;
 
 }
 h3 {
-  font-size: 17px;
+  font-size: 26px;
   
 }
 h4 {
-  font-size: 17px;
+  font-size: 27px;
   
 }
 p {
-  font-size: 16px;  
+  font-size: 26px;  
 }
 i {
   color: #2F4F4F;
