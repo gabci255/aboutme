@@ -7,23 +7,19 @@
 }
 /* Pozicionálás */
 
-.profile-card {
-  width: 600px;
-  max-width: calc(100vw - 30px);
-  
-  }
-
 .head, .links {
   text-align: center;
 }
+.links {
+  background-color: wheat;
 
+}
 img {
   width: 200px;
   height: auto;
   border-radius: 5%;
   margin: 10px;
   padding: 1px;
-  background-color: #666;
   transition: all 0.5s ease-in-out;
   filter: grayscale(60%);
 }
@@ -50,11 +46,12 @@ margin: 15px;  }
 
 body {
   height: auto;
+  align-items: center;
   display: flex;
   justify-content: center;
   font-family: 'Mulish', sans-serif;  
   width: 600px;
-  background-color: #DEB887;
+  background-color: cornsilk;
   margin: auto;
   border-radius: 6px
   
@@ -66,7 +63,9 @@ body {
   box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
 }
 
-
+.name-headline {
+  background-color: tan;
+}
 h1 {  
   font-size: 60px;
 }
