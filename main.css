@@ -18,7 +18,7 @@
 }
 
 img {
-  width: 120px;
+  width: 100px;
   height: auto;
   border-radius: 5%;
   margin: 10px;
@@ -46,17 +46,14 @@ li {
 .content {
   padding: 5%;
   }
-.about:hover {
-  
-  text-decoration: underline;
-}
+
 
 body {
   height: 100vh;
   display: flex;
   justify-content: center;
   font-family: 'Baloo Tamma 2', cursive;  
-  height: 600px;
+  height: auto;
   width: 400px;
   background-color: #DEB887;
   margin: auto;
@@ -92,54 +89,6 @@ p {
 i {
   color: #2F4F4F;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
